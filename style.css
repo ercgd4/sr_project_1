@@ -1,0 +1,13 @@
+div.mockup
+{
+margin: 5px;
+float: left;
+width: 80px;
+}
+
+div.mockupmobile
+{
+margin: 20px 0 0 650px;
+float: left;
+width: 80px;
+}
